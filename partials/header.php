@@ -70,7 +70,7 @@
 
             <!-- <a href="service.html" class="nav-item nav-link">Events</a> -->
             <a href="#" class="nav-item nav-link">News &amp; Events</a>
-            <a href="#" class="nav-item nav-link">Team</a>
+            <a href="index.php#team" class="nav-item nav-link">Team</a>
             <a href="contact.php" class="nav-item nav-link <?php echo  $contactActive ?>">Contact</a>
             <!-- <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>

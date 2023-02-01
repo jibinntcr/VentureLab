@@ -28,7 +28,7 @@
                 <a class="btn btn-link" href="index.php#about">About Us</a>
                 <a class="btn btn-link" href="community.php">Community</a>
                 <a class="btn btn-link" href="#">News &amp; Events</a>
-                <a class="btn btn-link" href="#">Team</a>
+                <a class="btn btn-link" href="index.php#team">Team</a>
                 <a class="btn btn-link" href="contact.php">Contact</a>
             </div>
             <div class="col-lg-4 col-md-6">
